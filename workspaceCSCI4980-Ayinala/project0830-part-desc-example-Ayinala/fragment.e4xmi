@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ASCII"?>
+<fragment:ModelFragments xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/descriptor/basic" xmlns:commands="http://www.eclipse.org/ui/2010/UIModel/application/commands" xmlns:fragment="http://www.eclipse.org/ui/2010/UIModel/fragment" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_s2xyUKyaEeiredxAck36UQ">
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_vGo8IKyaEeiredxAck36UQ" featurename="commands" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="commands:Command" xmi:id="_-NOgwKyaEeiredxAck36UQ" elementId="project0830-part-desc-example-ayinala.command.showhelloworld" commandName="Show HelloWorld"/>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_DCV1kKybEeiredxAck36UQ" featurename="descriptors" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="basic:PartDescriptor" xmi:id="_J1-FgKybEeiredxAck36UQ" elementId="project0830-part-desc-example-ayinala.partdescriptor.simpleview1example" label="Simple View 1 Example" contributionURI="bundleclass://project0830-part-desc-example-Ayinala/viewer.SimpleView">
+      <handlers xmi:id="_scGzEKybEeiredxAck36UQ" elementId="project0830-part-desc-example-ayinala.handler.0" contributionURI="bundleclass://project0830-part-desc-example-Ayinala/handler.ViewPopupHandler" command="_-NOgwKyaEeiredxAck36UQ"/>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_lbpoEKybEeiredxAck36UQ" elementId="project0830-part-desc-example-ayinala.popupmenu.mypopupmenu" label="My Popup Menu">
+        <children xsi:type="menu:HandledMenuItem" xmi:id="_ocbRcKybEeiredxAck36UQ" elementId="project0830-part-desc-example-ayinala.handledmenuitem.showhelloworld" label="Show Hello World" command="_-NOgwKyaEeiredxAck36UQ"/>
+      </menus>
+    </elements>
+  </fragments>
+</fragment:ModelFragments>
