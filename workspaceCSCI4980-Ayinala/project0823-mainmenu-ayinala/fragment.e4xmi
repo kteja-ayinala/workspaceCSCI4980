@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<fragment:ModelFragments xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:fragment="http://www.eclipse.org/ui/2010/UIModel/fragment" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_72HJkKciEeiPm4nFX57cJA">
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_8og24KciEeiPm4nFX57cJA" featurename="menuContributions" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="menu:MenuContribution" xmi:id="_Ac8x0KcjEeiPm4nFX57cJA" elementId="project0823-mainmenu-ayinala.menucontribution.0" positionInParent="after=window" parentId="org.eclipse.ui.main.menu">
+      <children xsi:type="menu:Menu" xmi:id="_HdmxIKcjEeiPm4nFX57cJA" elementId="project0823-mainmenu-ayinala.menu.mymainmenu" label="My Main Menu">
+        <children xsi:type="menu:HandledMenuItem" xmi:id="_JbjrkKcjEeiPm4nFX57cJA" elementId="project0823-mainmenu-ayinala.handledmenuitem.mymenuitemone" label="My Menu Item One "/>
+        <children xsi:type="menu:HandledMenuItem" xmi:id="_NPAIAKcjEeiPm4nFX57cJA" elementId="project0823-mainmenu-ayinala.handledmenuitem.mymenuitemtwo" label="My Menu Item Two"/>
+      </children>
+    </elements>
+  </fragments>
+</fragment:ModelFragments>
