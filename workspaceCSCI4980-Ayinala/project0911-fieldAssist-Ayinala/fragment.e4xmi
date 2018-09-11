@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ASCII"?>
+<fragment:ModelFragments xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/descriptor/basic" xmlns:fragment="http://www.eclipse.org/ui/2010/UIModel/fragment" xmi:id="_4sV2QLYKEeiy48ZpwDcyWw">
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_6yPy0LYKEeiy48ZpwDcyWw" featurename="descriptors" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="basic:PartDescriptor" xmi:id="__448gLYKEeiy48ZpwDcyWw" elementId="project0911-fieldassist-ayinala.partdescriptor.tableviewayinala" label="TableViewAyinala" contributionURI="bundleclass://project0911-fieldAssist-Ayinala/view.MyTableViewerPartDescriptor"/>
+  </fragments>
+</fragment:ModelFragments>

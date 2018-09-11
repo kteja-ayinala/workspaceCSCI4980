@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: SimpleTable1-1Example
-Bundle-SymbolicName: simpleTable1v2Example;singleton:=true
+Bundle-Name: Project0911-fieldAssist-Ayinala
+Bundle-SymbolicName: project0911-fieldAssist-Ayinala;singleton:=true
 Bundle-Version: 1.0.0.qualifier
-Bundle-Activator: simpletable1_1example.Activator
+Bundle-Activator: project0911_fieldassist_ayinala.Activator
 Require-Bundle: javax.inject;bundle-version="0.0.0",
  org.eclipse.swt;bundle-version="0.0.0",
  org.eclipse.e4.ui.model.workbench;bundle-version="0.0.0",
@@ -13,8 +13,8 @@ Require-Bundle: javax.inject;bundle-version="0.0.0",
  org.eclipse.e4.core.di;bundle-version="0.0.0",
  org.eclipse.e4.ui.di;bundle-version="0.0.0",
  org.eclipse.e4.core.contexts;bundle-version="0.0.0",
- org.eclipse.core.runtime;bundle-version="0.0.0",
- org.junit
-Bundle-ActivationPolicy: lazy
+ org.eclipse.core.runtime;bundle-version="0.0.0"
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
-Export-Package: util
+Import-Package: javax.annotation;version="1.0.0";resolution:=optional,
+ javax.inject;version="1.0.0"
+Bundle-ActivationPolicy: lazy

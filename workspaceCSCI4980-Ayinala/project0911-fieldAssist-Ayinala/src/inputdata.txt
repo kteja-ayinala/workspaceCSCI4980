@@ -1,0 +1,15 @@
+AMyFirstName1,AMyLastName1,female,true
+CMyFirstName1,CMyLastName1,female,true
+DMyFirstName1,DMyLastName1,male,true
+BMyFirstName1,BMyLastName1,female,true
+EMyFirstName1,EMyLastName1,female,true
+AMyFirstName3,AMyLastName3,female,true
+CMyFirstName3,CMyLastName3,female,true
+DMyFirstName3,DMyLastName3,male,true
+BMyFirstName3,BMyLastName3,female,true
+EMyFirstName3,EMyLastName3,female,true
+AMyFirstName2,AMyLastName2,male,false
+CMyFirstName2,CMyLastName2,female,true
+DMyFirstName2,DMyLastName2,female,true
+BMyFirstName2,BMyLastName2,female,true
+EMyFirstName2,EMyLastName2,female,true
