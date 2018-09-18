@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+
+   <extension
+         point="org.eclipse.core.runtime.products">
+      <product
+            name="project20180913q1krishnatejaayinala"
+            application="org.eclipse.e4.ui.workbench.swt.E4Application">
+         <property
+               name="applicationCSS"
+               value="platform:/plugin/project-20180913-Q1-KrishnaTeja-Ayinala/css/default.css">
+         </property>
+      </product>
+   </extension>
+   <extension
+         id="project-20180913-Q1-KrishnaTeja-Ayinala.fragment"
+         point="org.eclipse.e4.workbench.model">
+      <fragment
+            uri="fragment.e4xmi">
+      </fragment>
+   </extension>
+
+</plugin>

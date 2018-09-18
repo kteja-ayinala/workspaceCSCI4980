@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ASCII"?>
+<fragment:ModelFragments xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/descriptor/basic" xmlns:commands="http://www.eclipse.org/ui/2010/UIModel/application/commands" xmlns:fragment="http://www.eclipse.org/ui/2010/UIModel/fragment" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_jcYQwLeYEeiUf7SOvcgsKw">
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_1aCJILeYEeiUf7SOvcgsKw" featurename="menuContributions" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="menu:MenuContribution" xmi:id="_46Sj0LeYEeiUf7SOvcgsKw" elementId="project-20180913-q1-krishnateja-ayinala.menucontribution.0" positionInParent="after=window" parentId="org.eclipse.ui.main.menu">
+      <children xsi:type="menu:Menu" xmi:id="_-S7ccLeYEeiUf7SOvcgsKw" elementId="project-20180913-q1-krishnateja-ayinala.menu.20180913-q1-krishnateja-ayinala" label="20180913-Q1-KrishnaTeja-Ayinala">
+        <children xsi:type="menu:HandledMenuItem" xmi:id="_JP118LeZEeiUf7SOvcgsKw" elementId="project-20180913-q1-krishnateja-ayinala.handledmenuitem.readfileandshowhello" label="Read File and Show Hello" command="_kRgFcLeZEeiUf7SOvcgsKw"/>
+      </children>
+    </elements>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_ZdkBwLeZEeiUf7SOvcgsKw" featurename="commands" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="commands:Command" xmi:id="_kRgFcLeZEeiUf7SOvcgsKw" elementId="project-20180913-q1-krishnateja-ayinala.command.readfileandshowhello" commandName="Read File and Show Hello"/>
+    <elements xsi:type="commands:Command" xmi:id="_roMaoLejEeiUf7SOvcgsKw" elementId="project-20180913-q1-krishnateja-ayinala.command.reverse" commandName="Reverse"/>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_Av3HALebEeiUf7SOvcgsKw" featurename="descriptors" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="basic:PartDescriptor" xmi:id="_X3i0QLebEeiUf7SOvcgsKw" elementId="project-20180913-q1-krishnateja-ayinala.partdescriptor.simpleview20180913q1krishnatejaayinala" label="Simple View 20180913 Q1 KrishnaTeja Ayinala" contributionURI="bundleclass://project-20180913-Q1-KrishnaTeja-Ayinala/view.SimpleView20180913Q1KrishnaTejaAyinala">
+      <handlers xmi:id="_X0NSwLejEeiUf7SOvcgsKw" elementId="project-20180913-q1-krishnateja-ayinala.handler.0" contributionURI="bundleclass://project-20180913-Q1-KrishnaTeja-Ayinala/handler.ReadShowHandler" command="_kRgFcLeZEeiUf7SOvcgsKw"/>
+      <handlers xmi:id="_ecZuwLejEeiUf7SOvcgsKw" elementId="project-20180913-q1-krishnateja-ayinala.handler.1" contributionURI="bundleclass://project-20180913-Q1-KrishnaTeja-Ayinala/handler.Reverse" command="_roMaoLejEeiUf7SOvcgsKw"/>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_t3F0wLebEeiUf7SOvcgsKw" elementId="project-20180913-q1-krishnateja-ayinala.popupmenu.reverse" label="Reverse">
+        <children xsi:type="menu:HandledMenuItem" xmi:id="_0cT1QLebEeiUf7SOvcgsKw" elementId="project-20180913-q1-krishnateja-ayinala.handledmenuitem.reverse" label="Reverse" command="_roMaoLejEeiUf7SOvcgsKw"/>
+      </menus>
+    </elements>
+  </fragments>
+</fragment:ModelFragments>
