@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ASCII"?>
+<fragment:ModelFragments xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/descriptor/basic" xmlns:commands="http://www.eclipse.org/ui/2010/UIModel/application/commands" xmlns:fragment="http://www.eclipse.org/ui/2010/UIModel/fragment" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_d_Lo4LtzEeaDy7Y0uuRt5A">
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_Sld6cLt6EeaDy7Y0uuRt5A" featurename="commands" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="commands:Command" xmi:id="_cn8E8Lt6EeaDy7Y0uuRt5A" elementId="simpletableinsertdeleteexample.command.addpersoncommand" commandName="Add Person Command"/>
+    <elements xsi:type="commands:Command" xmi:id="_VkGjcLv2EeaJQb2_Imn85g" elementId="simpletableinsertdeleteexample.command.deletepersoncommand" commandName="Delete Person Command"/>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_fC8HwLt6EeaDy7Y0uuRt5A" featurename="handlers" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="commands:Handler" xmi:id="_krBxoLt6EeaDy7Y0uuRt5A" elementId="simpletableinsertdeleteexample.handler.1" contributionURI="bundleclass://simpleTable3InsertDeleteExample/handler.AddPersonHandler" command="_cn8E8Lt6EeaDy7Y0uuRt5A"/>
+    <elements xsi:type="commands:Handler" xmi:id="_YyH-oLv2EeaJQb2_Imn85g" elementId="simpletableinsertdeleteexample.handler.0" contributionURI="bundleclass://simpleTable3InsertDeleteExample/handler.DelPersonHandler" command="_VkGjcLv2EeaJQb2_Imn85g"/>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_pof1YLtzEeaDy7Y0uuRt5A" featurename="descriptors" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="basic:PartDescriptor" xmi:id="_usZ0ILtzEeaDy7Y0uuRt5A" elementId="simpletableinsertdeleteexample.partdescriptor.simpletabletoinsertanddelete" label="Simple Table To Insert and Delete" iconURI="platform:/plugin/simpleTable3InsertDeleteExample/icons/sample.png" contributionURI="bundleclass://simpleTable3InsertDeleteExample/view.MyTableViewer">
+      <menus xsi:type="menu:PopupMenu" xmi:id="_cYgsYLt7EeaDy7Y0uuRt5A" elementId="simpletableinsertdeleteexample.popupmenu.mypopupmenu" label="My Popup Menu">
+        <children xsi:type="menu:HandledMenuItem" xmi:id="_d2nCELt7EeaDy7Y0uuRt5A" elementId="simpletableinsertdeleteexample.handledmenuitem.add" label="Add" command="_cn8E8Lt6EeaDy7Y0uuRt5A"/>
+        <children xsi:type="menu:HandledMenuItem" xmi:id="_Q9YP8Lv2EeaJQb2_Imn85g" elementId="simpletableinsertdeleteexample.handledmenuitem.delete" label="Delete" command="_VkGjcLv2EeaJQb2_Imn85g"/>
+      </menus>
+    </elements>
+  </fragments>
+</fragment:ModelFragments>

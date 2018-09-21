@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ASCII"?>
+<fragment:ModelFragments xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/descriptor/basic" xmlns:commands="http://www.eclipse.org/ui/2010/UIModel/application/commands" xmlns:fragment="http://www.eclipse.org/ui/2010/UIModel/fragment" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_CEGgYL0dEeixLI8vB8ACvw">
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_dbhIAL0eEeixLI8vB8ACvw" featurename="handlers" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="commands:Handler" xmi:id="_gSgjQL0eEeixLI8vB8ACvw" elementId="project0920-ayinala.handler.0" contributionURI="bundleclass://project0920-Ayinala/handler.AddHandler" command="_OSgA0L0mEeixLI8vB8ACvw"/>
+    <elements xsi:type="commands:Handler" xmi:id="_ngB54L0eEeixLI8vB8ACvw" elementId="project0920-ayinala.handler.1" contributionURI="bundleclass://project0920-Ayinala/handler.DeleteHandler" command="_QDoAML0mEeixLI8vB8ACvw"/>
+    <elements xsi:type="commands:Handler" xmi:id="_rGzzUL0eEeixLI8vB8ACvw" elementId="project0920-ayinala.handler.2" contributionURI="bundleclass://project0920-Ayinala/handler.ExportHandler" command="_RFshML0mEeixLI8vB8ACvw"/>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_Lr_4oL0mEeixLI8vB8ACvw" featurename="commands" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="commands:Command" xmi:id="_OSgA0L0mEeixLI8vB8ACvw" elementId="project0920-ayinala.command.add" commandName="Add"/>
+    <elements xsi:type="commands:Command" xmi:id="_QDoAML0mEeixLI8vB8ACvw" elementId="project0920-ayinala.command.delete" commandName="Delete"/>
+    <elements xsi:type="commands:Command" xmi:id="_RFshML0mEeixLI8vB8ACvw" elementId="project0920-ayinala.command.export" commandName="Export"/>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_ZDJqgL0nEeixLI8vB8ACvw" featurename="descriptors" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="basic:PartDescriptor" xmi:id="_bzgSQL0nEeixLI8vB8ACvw" elementId="project0920-ayinala.partdescriptor.simpletableaddingdeletingayinalaviewer" label="Simple Table Adding Deleting Ayinala Viewer" contributionURI="bundleclass://project0920-Ayinala/view.SimpleTableAddingDeletingAyinalaViewer">
+      <menus xsi:type="menu:PopupMenu" xmi:id="_rETi0L0nEeixLI8vB8ACvw" elementId="project0920-ayinala.popupmenu.adddeleteexport" label="AddDeleteExport">
+        <children xsi:type="menu:HandledMenuItem" xmi:id="_tkxUcL0nEeixLI8vB8ACvw" elementId="project0920-ayinala.handledmenuitem.add" label="Add" command="_OSgA0L0mEeixLI8vB8ACvw"/>
+        <children xsi:type="menu:HandledMenuItem" xmi:id="_wsCnYL0nEeixLI8vB8ACvw" elementId="project0920-ayinala.handledmenuitem.delete" label="Delete" command="_QDoAML0mEeixLI8vB8ACvw"/>
+        <children xsi:type="menu:HandledMenuItem" xmi:id="_yVgfkL0nEeixLI8vB8ACvw" elementId="project0920-ayinala.handledmenuitem.export" label="Export" command="_RFshML0mEeixLI8vB8ACvw"/>
+      </menus>
+    </elements>
+  </fragments>
+</fragment:ModelFragments>
