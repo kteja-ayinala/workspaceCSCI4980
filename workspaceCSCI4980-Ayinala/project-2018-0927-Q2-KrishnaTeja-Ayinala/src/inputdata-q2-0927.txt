@@ -1,0 +1,10 @@
+Sophia:Smith:402-001-0001:1001 Pine Street, Omaha NE
+Olivia:Johnson:402-002-0002:1002 Pine Street, Omaha NE
+Emma:Williams:818-003-0003:1003 Roscoe Blvd, Northridge, CA
+Ava:Smith:402-004-0004:1004 Pine Street, Omaha NE
+Isabella:Johnson:402-005-0005:1005 Pine Street, Omaha NE
+Jackson:Williams:818-006-0006:1006 Roscoe Blvd, Northridge, CA
+Liam:Smith:402-007-0007:1007 Pine Street, Omaha NE
+Jacob:Johnson:402-008-0008:1008 Pine Street, Omaha NE
+Noah:Williams:818-009-0009:1009 Roscoe Blvd, Northridge, CA
+Aiden:Smith:402-010-0010:1010 Pine Street, Omaha NE

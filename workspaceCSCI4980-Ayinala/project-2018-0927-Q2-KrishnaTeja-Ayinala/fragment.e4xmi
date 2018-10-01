@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ASCII"?>
+<fragment:ModelFragments xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/descriptor/basic" xmlns:commands="http://www.eclipse.org/ui/2010/UIModel/application/commands" xmlns:fragment="http://www.eclipse.org/ui/2010/UIModel/fragment" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_3OrA8MKYEeifGvEDDbblvw">
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_5l8aUMKYEeifGvEDDbblvw" featurename="descriptors" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="basic:PartDescriptor" xmi:id="_A4bwgMKZEeifGvEDDbblvw" elementId="project-2018-0927-q2-krishnateja-ayinala.partdescriptor.simpletableview20180927q2krishnatejaayinala" label="Simple Table View 2018 0927 Q2 Krishna Teja Ayinala" contributionURI="bundleclass://project-2018-0927-Q2-KrishnaTeja-Ayinala/view.SimpleTableView20180927Q2KrishnaTejaAyinala"/>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_MbPlAMKcEeifGvEDDbblvw" featurename="menuContributions" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="menu:MenuContribution" xmi:id="_SoKaQMKcEeifGvEDDbblvw" elementId="project-2018-0927-q2-krishnateja-ayinala.menucontribution.0" positionInParent="after=window" parentId="org.eclipse.ui.main.menu">
+      <children xsi:type="menu:Menu" xmi:id="_W3aB4MKcEeifGvEDDbblvw" elementId="project-2018-0927-q2-krishnateja-ayinala.menu.mymenu" label="2018-0927-Q2-KrishnaTeja-Ayinala">
+        <children xsi:type="menu:HandledMenuItem" xmi:id="_YuWVYMKcEeifGvEDDbblvw" elementId="project-2018-0927-q2-krishnateja-ayinala.handledmenuitem.2018-0927-q2-krishnateja-ayinala" label="Export" command="_vTUXIMKcEeifGvEDDbblvw"/>
+      </children>
+    </elements>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_rHxjwMKcEeifGvEDDbblvw" featurename="commands" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="commands:Command" xmi:id="_vTUXIMKcEeifGvEDDbblvw" elementId="project-2018-0927-q2-krishnateja-ayinala.command.export" commandName="Export"/>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_9kjoIMKcEeifGvEDDbblvw" featurename="handlers" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="commands:Handler" xmi:id="_BH5zEMKdEeifGvEDDbblvw" elementId="project-2018-0927-q2-krishnateja-ayinala.handler.0" contributionURI="bundleclass://project-2018-0927-Q2-KrishnaTeja-Ayinala/handler.ExportHandler" command="_vTUXIMKcEeifGvEDDbblvw"/>
+  </fragments>
+</fragment:ModelFragments>

@@ -25,7 +25,7 @@ public enum MyPersonModelProvider {
 	}
 
 	private static String getFilePath() {
-		return "/Users/krishnatejaayinala/Desktop/project0920-Ayinala/src/inputdata.txt";
+		return "/Users/krishnatejaayinala/workspaceCSCI4980/workspaceCSCI4980-Ayinala/project-2018-0927-Q2-KrishnaTeja-Ayinala/src/inputdata-q2-0927.txt";
 	}
 
 	public List<MyPerson> getPersons() {
