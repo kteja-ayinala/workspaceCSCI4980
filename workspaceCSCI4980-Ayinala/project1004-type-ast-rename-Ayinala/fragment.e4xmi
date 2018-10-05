@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ASCII"?>
+<fragment:ModelFragments xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/descriptor/basic" xmlns:commands="http://www.eclipse.org/ui/2010/UIModel/application/commands" xmlns:fragment="http://www.eclipse.org/ui/2010/UIModel/fragment" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_0q97kMgeEei14qPm1Ai4oQ">
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_2acVIMgeEei14qPm1Ai4oQ" featurename="descriptors" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="basic:PartDescriptor" xmi:id="_5Nsf4MgeEei14qPm1Ai4oQ" elementId="project1004-type-ast-rename-ayinala.partdescriptor.simpletableview-renametypeast-1004ayinala" label="Simple Table View - Rename Type AST - 1004 Ayinala" contributionURI="bundleclass://project1004-type-ast-rename-Ayinala/view.SimpleTableViewRenameAyinala">
+      <menus xsi:type="menu:PopupMenu" xmi:id="_Y66qIMggEei14qPm1Ai4oQ" elementId="project1004-type-ast-rename-ayinala.popupmenu.mypopupmenu" label="MyPopupMenu">
+        <children xsi:type="menu:HandledMenuItem" xmi:id="_bgIY4MggEei14qPm1Ai4oQ" elementId="project1004-type-ast-rename-ayinala.handledmenuitem.refresh" label="Refresh" command="_Oqb40MggEei14qPm1Ai4oQ"/>
+      </menus>
+    </elements>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_JNDDEMggEei14qPm1Ai4oQ" featurename="commands" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="commands:Command" xmi:id="_Oqb40MggEei14qPm1Ai4oQ" elementId="project1004-type-ast-rename-ayinala.command.refresh" commandName="Refresh"/>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_fwT0oMggEei14qPm1Ai4oQ" featurename="handlers" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="commands:Handler" xmi:id="_jUvksMggEei14qPm1Ai4oQ" elementId="project1004-type-ast-rename-ayinala.handler.0" contributionURI="bundleclass://project1004-type-ast-rename-Ayinala/handler.SimpleTableAyinalaHandler" command="_Oqb40MggEei14qPm1Ai4oQ"/>
+  </fragments>
+</fragment:ModelFragments>
