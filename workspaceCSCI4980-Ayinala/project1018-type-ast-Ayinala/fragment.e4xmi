@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ASCII"?>
+<fragment:ModelFragments xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/descriptor/basic" xmlns:commands="http://www.eclipse.org/ui/2010/UIModel/application/commands" xmlns:fragment="http://www.eclipse.org/ui/2010/UIModel/fragment" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_-mqPgNMdEeiaO9sNmK395A">
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_TX4bsNMeEeiaO9sNmK395A" featurename="descriptors" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="basic:PartDescriptor" xmi:id="_V33sMNMeEeiaO9sNmK395A" elementId="project1018-type-ast-ayinala.partdescriptor.simpletableview-deletemethod-ast-1018ayinala" label="Simple Table View - Delete Method-AST-1018Ayinala" contributionURI="bundleclass://project1018-type-ast-Ayinala/view.SimpleTableViewDeleteMethodAST1018Ayinala">
+      <menus xsi:type="menu:PopupMenu" xmi:id="_g7MaQNMfEeiaO9sNmK395A" elementId="project1018-type-ast-ayinala.popupmenu.mypopupmenu" label="MyPopupMenu">
+        <children xsi:type="menu:HandledMenuItem" xmi:id="_mKS8YNMfEeiaO9sNmK395A" elementId="project1018-type-ast-ayinala.handledmenuitem.refresh" label="Refresh" command="_YOr9INMfEeiaO9sNmK395A"/>
+        <children xsi:type="menu:HandledMenuItem" xmi:id="_oioFsNMfEeiaO9sNmK395A" elementId="project1018-type-ast-ayinala.handledmenuitem.deleteemptymethod" label="Delete Empty method" command="_dU0JcNMfEeiaO9sNmK395A"/>
+      </menus>
+    </elements>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_T0IdYNMfEeiaO9sNmK395A" featurename="commands" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="commands:Command" xmi:id="_YOr9INMfEeiaO9sNmK395A" elementId="project1018-type-ast-ayinala.command.refresh" commandName="Refresh"/>
+    <elements xsi:type="commands:Command" xmi:id="_dU0JcNMfEeiaO9sNmK395A" elementId="project1018-type-ast-ayinala.command.deleteemptymethod" commandName="Delete Empty Method"/>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_xf4UkNMfEeiaO9sNmK395A" featurename="handlers" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="commands:Handler" xmi:id="_0ndwkNMfEeiaO9sNmK395A" elementId="project1018-type-ast-ayinala.handler.0" contributionURI="bundleclass://project1018-type-ast-Ayinala/handler.RefreshHandler" command="_YOr9INMfEeiaO9sNmK395A"/>
+    <elements xsi:type="commands:Handler" xmi:id="_y8-IMNMgEeiaO9sNmK395A" elementId="project1018-type-ast-ayinala.handler.1" contributionURI="bundleclass://project1018-type-ast-Ayinala/handler.DelMethodHandler" command="_dU0JcNMfEeiaO9sNmK395A"/>
+  </fragments>
+</fragment:ModelFragments>
