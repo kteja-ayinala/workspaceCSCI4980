@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ASCII"?>
+<fragment:ModelFragments xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/descriptor/basic" xmlns:commands="http://www.eclipse.org/ui/2010/UIModel/application/commands" xmlns:fragment="http://www.eclipse.org/ui/2010/UIModel/fragment" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_LnwEUM2ZEei8UpnKmh60kA">
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_MjZ0QM2ZEei8UpnKmh60kA" featurename="descriptors" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="basic:PartDescriptor" xmi:id="_P0dVUM2ZEei8UpnKmh60kA" elementId="project-2018-1011-midterm-krishnateja-ayinala.partdescriptor.simpletableview20181011midtermkrishnatejaayinala" label="Simple Table View 2018 1011 Midterm Krishna Teja Ayinala" contributionURI="bundleclass://project-2018-1011-Midterm-KrishnaTeja-Ayinala/view.SimpleTableView20181011MidtermKrishnaTejaAyinala">
+      <handlers xmi:id="_-sZrYM2cEei8UpnKmh60kA" elementId="project-2018-1011-midterm-krishnateja-ayinala.handler.0" contributionURI="bundleclass://project-2018-1011-Midterm-KrishnaTeja-Ayinala/handler.ExportSelectedRowHandler" command="_0k5h0M2aEei8UpnKmh60kA"/>
+      <handlers xmi:id="_IK-eoM2dEei8UpnKmh60kA" elementId="project-2018-1011-midterm-krishnateja-ayinala.handler.1" contributionURI="bundleclass://project-2018-1011-Midterm-KrishnaTeja-Ayinala/handler.MoveTopHandler" command="_8APSAM2aEei8UpnKmh60kA"/>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_vEbQ8M2cEei8UpnKmh60kA" elementId="project-2018-1011-midterm-krishnateja-ayinala.popupmenu.mypopupmenu" label="My Popup Menu">
+        <children xsi:type="menu:HandledMenuItem" xmi:id="_zxs4YM2cEei8UpnKmh60kA" elementId="project-2018-1011-midterm-krishnateja-ayinala.handledmenuitem.exportselectedrows" label="Export Selected Rows" command="_0k5h0M2aEei8UpnKmh60kA"/>
+        <children xsi:type="menu:HandledMenuItem" xmi:id="_4xa6sM2cEei8UpnKmh60kA" elementId="project-2018-1011-midterm-krishnateja-ayinala.handledmenuitem.movetop" label="Move Top" command="_8APSAM2aEei8UpnKmh60kA"/>
+      </menus>
+    </elements>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_xNYMYM2aEei8UpnKmh60kA" featurename="commands" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="commands:Command" xmi:id="_0k5h0M2aEei8UpnKmh60kA" elementId="project-2018-1011-midterm-krishnateja-ayinala.command.exportselectedrows" commandName="Export Selected Row(s)"/>
+    <elements xsi:type="commands:Command" xmi:id="_8APSAM2aEei8UpnKmh60kA" elementId="project-2018-1011-midterm-krishnateja-ayinala.command.movetop" commandName="Move Top"/>
+  </fragments>
+</fragment:ModelFragments>
