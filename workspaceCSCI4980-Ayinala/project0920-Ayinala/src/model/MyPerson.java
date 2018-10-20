@@ -13,10 +13,6 @@ public class MyPerson {
 		this.address = address;
 	}
 
-	public MyPerson(MyPerson myPerson) {
-		// TODO Auto-generated constructor stub
-	}
-
 	public String getFirstName() {
 		return firstName;
 	}
@@ -51,6 +47,6 @@ public class MyPerson {
 
 	@Override
 	public String toString() {
-		return firstName + " " + lastName + " " + phn + " " + address;
+		return firstName + " " + lastName;
 	}
 }

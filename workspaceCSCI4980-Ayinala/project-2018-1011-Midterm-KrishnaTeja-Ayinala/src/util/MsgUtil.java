@@ -19,4 +19,8 @@ public class MsgUtil {
    public static void openWarning(String msg) {
       MessageDialog.openWarning(shell, "Warning", msg);
    }
+   
+   public static void message(String msg) {
+	      MessageDialog.openInformation(shell, "info", msg);
+	   }
 }

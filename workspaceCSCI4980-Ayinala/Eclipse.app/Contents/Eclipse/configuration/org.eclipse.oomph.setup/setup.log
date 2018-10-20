@@ -278,3 +278,123 @@
 [2018-10-18 16:55:59] Bundle org.eclipse.oomph.setup.p2 1.7.0.v20170217-1051, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
 [2018-10-18 16:55:59] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.SWT_LIB = /Users/krishnatejaayinala/workspaces/org.eclipse.swt.cocoa.macosx.x86_64-4.3.jar
 [2018-10-18 16:55:59] 
+[2018-10-18 22:51:22] Executing startup tasks
+[2018-10-18 22:51:22] Java(TM) SE Runtime Environment 1.8.0_171-b11
+[2018-10-18 22:51:22] Product self.product.version
+[2018-10-18 22:51:22] Bundle org.eclipse.oomph.setup 1.7.0.v20170224-1311, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-10-18 22:51:22] Bundle org.eclipse.oomph.setup.core 1.7.0.v20170301-0747, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-10-18 22:51:22] Bundle org.eclipse.oomph.setup.p2 1.7.0.v20170217-1051, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-10-18 22:51:22] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.SWT_LIB = /Users/krishnatejaayinala/workspaces/org.eclipse.swt.cocoa.macosx.x86_64-4.3.jar
+[2018-10-18 22:51:22] 
+[2018-10-18 23:43:38] Executing startup tasks
+[2018-10-18 23:43:39] Java(TM) SE Runtime Environment 1.8.0_171-b11
+[2018-10-18 23:43:39] Product self.product.version
+[2018-10-18 23:43:39] Bundle org.eclipse.oomph.setup 1.7.0.v20170224-1311, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-10-18 23:43:39] Bundle org.eclipse.oomph.setup.core 1.7.0.v20170301-0747, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-10-18 23:43:39] Bundle org.eclipse.oomph.setup.p2 1.7.0.v20170217-1051, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-10-18 23:43:39] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.SWT_LIB = /Users/krishnatejaayinala/workspaces/org.eclipse.swt.cocoa.macosx.x86_64-4.3.jar
+[2018-10-18 23:43:39] 
+[2018-10-18 23:55:33] Executing startup tasks
+[2018-10-18 23:55:33] Java(TM) SE Runtime Environment 1.8.0_171-b11
+[2018-10-18 23:55:33] Product self.product.version
+[2018-10-18 23:55:33] Bundle org.eclipse.oomph.setup 1.7.0.v20170224-1311, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-10-18 23:55:33] Bundle org.eclipse.oomph.setup.core 1.7.0.v20170301-0747, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-10-18 23:55:33] Bundle org.eclipse.oomph.setup.p2 1.7.0.v20170217-1051, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-10-18 23:55:33] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.SWT_LIB = /Users/krishnatejaayinala/workspaces/org.eclipse.swt.cocoa.macosx.x86_64-4.3.jar
+[2018-10-18 23:55:33] 
+[2018-10-19 19:36:54] Executing startup tasks
+[2018-10-19 19:36:54] Java(TM) SE Runtime Environment 1.8.0_171-b11
+[2018-10-19 19:36:54] Product self.product.version
+[2018-10-19 19:36:54] Bundle org.eclipse.oomph.setup 1.7.0.v20170224-1311, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-10-19 19:36:54] Bundle org.eclipse.oomph.setup.core 1.7.0.v20170301-0747, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-10-19 19:36:54] Bundle org.eclipse.oomph.setup.p2 1.7.0.v20170217-1051, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-10-19 19:36:54] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.SWT_LIB = /Users/krishnatejaayinala/workspaces/org.eclipse.swt.cocoa.macosx.x86_64-4.3.jar
+[2018-10-19 19:36:55] 
+[2018-10-19 19:43:45] Executing startup tasks
+[2018-10-19 19:43:46] Java(TM) SE Runtime Environment 1.8.0_171-b11
+[2018-10-19 19:43:46] Product self.product.version
+[2018-10-19 19:43:46] Bundle org.eclipse.oomph.setup 1.7.0.v20170224-1311, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-10-19 19:43:46] Bundle org.eclipse.oomph.setup.core 1.7.0.v20170301-0747, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-10-19 19:43:46] Bundle org.eclipse.oomph.setup.p2 1.7.0.v20170217-1051, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-10-19 19:43:46] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.SWT_LIB = /Users/krishnatejaayinala/workspaces/org.eclipse.swt.cocoa.macosx.x86_64-4.3.jar
+[2018-10-19 19:43:46] 
+[2018-10-19 20:05:11] Executing startup tasks
+[2018-10-19 20:05:11] Java(TM) SE Runtime Environment 1.8.0_171-b11
+[2018-10-19 20:05:11] Product self.product.version
+[2018-10-19 20:05:11] Bundle org.eclipse.oomph.setup 1.7.0.v20170224-1311, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-10-19 20:05:11] Bundle org.eclipse.oomph.setup.core 1.7.0.v20170301-0747, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-10-19 20:05:11] Bundle org.eclipse.oomph.setup.p2 1.7.0.v20170217-1051, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-10-19 20:05:12] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.SWT_LIB = /Users/krishnatejaayinala/workspaces/org.eclipse.swt.cocoa.macosx.x86_64-4.3.jar
+[2018-10-19 20:05:12] 
+[2018-10-19 20:24:28] Executing startup tasks
+[2018-10-19 20:24:28] Java(TM) SE Runtime Environment 1.8.0_171-b11
+[2018-10-19 20:24:28] Product self.product.version
+[2018-10-19 20:24:28] Bundle org.eclipse.oomph.setup 1.7.0.v20170224-1311, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-10-19 20:24:28] Bundle org.eclipse.oomph.setup.core 1.7.0.v20170301-0747, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-10-19 20:24:28] Bundle org.eclipse.oomph.setup.p2 1.7.0.v20170217-1051, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-10-19 20:24:28] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.SWT_LIB = /Users/krishnatejaayinala/workspaces/org.eclipse.swt.cocoa.macosx.x86_64-4.3.jar
+[2018-10-19 20:24:28] 
+[2018-10-19 21:15:00] Executing startup tasks
+[2018-10-19 21:15:00] Java(TM) SE Runtime Environment 1.8.0_171-b11
+[2018-10-19 21:15:00] Product self.product.version
+[2018-10-19 21:15:00] Bundle org.eclipse.oomph.setup 1.7.0.v20170224-1311, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-10-19 21:15:00] Bundle org.eclipse.oomph.setup.core 1.7.0.v20170301-0747, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-10-19 21:15:00] Bundle org.eclipse.oomph.setup.p2 1.7.0.v20170217-1051, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-10-19 21:15:00] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.SWT_LIB = /Users/krishnatejaayinala/workspaces/org.eclipse.swt.cocoa.macosx.x86_64-4.3.jar
+[2018-10-19 21:15:00] 
+[2018-10-19 21:43:51] Executing startup tasks
+[2018-10-19 21:43:51] Java(TM) SE Runtime Environment 1.8.0_171-b11
+[2018-10-19 21:43:51] Product self.product.version
+[2018-10-19 21:43:51] Bundle org.eclipse.oomph.setup 1.7.0.v20170224-1311, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-10-19 21:43:51] Bundle org.eclipse.oomph.setup.core 1.7.0.v20170301-0747, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-10-19 21:43:51] Bundle org.eclipse.oomph.setup.p2 1.7.0.v20170217-1051, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-10-19 21:43:51] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.SWT_LIB = /Users/krishnatejaayinala/workspaces/org.eclipse.swt.cocoa.macosx.x86_64-4.3.jar
+[2018-10-19 21:43:51] 
+[2018-10-19 22:21:54] Executing startup tasks
+[2018-10-19 22:21:55] Java(TM) SE Runtime Environment 1.8.0_171-b11
+[2018-10-19 22:21:55] Product self.product.version
+[2018-10-19 22:21:55] Bundle org.eclipse.oomph.setup 1.7.0.v20170224-1311, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-10-19 22:21:55] Bundle org.eclipse.oomph.setup.core 1.7.0.v20170301-0747, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-10-19 22:21:55] Bundle org.eclipse.oomph.setup.p2 1.7.0.v20170217-1051, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-10-19 22:21:55] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.SWT_LIB = /Users/krishnatejaayinala/workspaces/org.eclipse.swt.cocoa.macosx.x86_64-4.3.jar
+[2018-10-19 22:21:55] 
+[2018-10-20 13:24:40] Executing startup tasks
+[2018-10-20 13:24:40] Java(TM) SE Runtime Environment 1.8.0_171-b11
+[2018-10-20 13:24:40] Product self.product.version
+[2018-10-20 13:24:40] Bundle org.eclipse.oomph.setup 1.7.0.v20170224-1311, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-10-20 13:24:40] Bundle org.eclipse.oomph.setup.core 1.7.0.v20170301-0747, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-10-20 13:24:40] Bundle org.eclipse.oomph.setup.p2 1.7.0.v20170217-1051, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-10-20 13:24:40] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.SWT_LIB = /Users/krishnatejaayinala/workspaces/org.eclipse.swt.cocoa.macosx.x86_64-4.3.jar
+[2018-10-20 13:24:40] 
+[2018-10-20 13:32:25] Executing startup tasks
+[2018-10-20 13:32:25] Java(TM) SE Runtime Environment 1.8.0_171-b11
+[2018-10-20 13:32:25] Product self.product.version
+[2018-10-20 13:32:25] Bundle org.eclipse.oomph.setup 1.7.0.v20170224-1311, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-10-20 13:32:25] Bundle org.eclipse.oomph.setup.core 1.7.0.v20170301-0747, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-10-20 13:32:25] Bundle org.eclipse.oomph.setup.p2 1.7.0.v20170217-1051, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-10-20 13:32:25] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.SWT_LIB = /Users/krishnatejaayinala/workspaces/org.eclipse.swt.cocoa.macosx.x86_64-4.3.jar
+[2018-10-20 13:32:25] 
+[2018-10-20 13:49:42] Executing startup tasks
+[2018-10-20 13:49:42] Java(TM) SE Runtime Environment 1.8.0_171-b11
+[2018-10-20 13:49:42] Product self.product.version
+[2018-10-20 13:49:42] Bundle org.eclipse.oomph.setup 1.7.0.v20170224-1311, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-10-20 13:49:42] Bundle org.eclipse.oomph.setup.core 1.7.0.v20170301-0747, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-10-20 13:49:42] Bundle org.eclipse.oomph.setup.p2 1.7.0.v20170217-1051, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-10-20 13:49:42] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.SWT_LIB = /Users/krishnatejaayinala/workspaces/org.eclipse.swt.cocoa.macosx.x86_64-4.3.jar
+[2018-10-20 13:49:42] 
+[2018-10-20 14:00:16] Executing startup tasks
+[2018-10-20 14:00:16] Java(TM) SE Runtime Environment 1.8.0_171-b11
+[2018-10-20 14:00:16] Product self.product.version
+[2018-10-20 14:00:16] Bundle org.eclipse.oomph.setup 1.7.0.v20170224-1311, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-10-20 14:00:16] Bundle org.eclipse.oomph.setup.core 1.7.0.v20170301-0747, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-10-20 14:00:16] Bundle org.eclipse.oomph.setup.p2 1.7.0.v20170217-1051, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-10-20 14:00:16] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.SWT_LIB = /Users/krishnatejaayinala/workspaces/org.eclipse.swt.cocoa.macosx.x86_64-4.3.jar
+[2018-10-20 14:00:17] 
+[2018-10-20 14:08:51] Executing startup tasks
+[2018-10-20 14:08:51] Java(TM) SE Runtime Environment 1.8.0_171-b11
+[2018-10-20 14:08:51] Product self.product.version
+[2018-10-20 14:08:51] Bundle org.eclipse.oomph.setup 1.7.0.v20170224-1311, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-10-20 14:08:51] Bundle org.eclipse.oomph.setup.core 1.7.0.v20170301-0747, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-10-20 14:08:51] Bundle org.eclipse.oomph.setup.p2 1.7.0.v20170217-1051, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-10-20 14:08:51] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.SWT_LIB = /Users/krishnatejaayinala/workspaces/org.eclipse.swt.cocoa.macosx.x86_64-4.3.jar
+[2018-10-20 14:08:51] 
