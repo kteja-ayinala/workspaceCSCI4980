@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ASCII"?>
+<fragment:ModelFragments xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/descriptor/basic" xmlns:commands="http://www.eclipse.org/ui/2010/UIModel/application/commands" xmlns:fragment="http://www.eclipse.org/ui/2010/UIModel/fragment" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_8UspINidEeiLvJuEBxK8-w">
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_865GcNidEeiLvJuEBxK8-w" featurename="descriptors" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="basic:PartDescriptor" xmi:id="__877INidEeiLvJuEBxK8-w" elementId="project1025-zest-ast-ayinala.partdescriptor.simplezestview-ast-1025ayinala" label="Simple Zest View - AST - 1025 Ayinala" contributionURI="bundleclass://project1025-zest-ast-Ayinala/view.SimpleZestViewAST1025Ayinala">
+      <menus xsi:type="menu:PopupMenu" xmi:id="_KNY3QNieEeiLvJuEBxK8-w" elementId="project1025-zest-ast-ayinala.popupmenu.mypopupmenu" label="My Popup Menu">
+        <children xsi:type="menu:HandledMenuItem" xmi:id="_LIz9sNieEeiLvJuEBxK8-w" elementId="project1025-zest-ast-ayinala.handledmenuitem.findemptymethods" label="Find Empty Methods" command="_UlG5ANieEeiLvJuEBxK8-w"/>
+      </menus>
+    </elements>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_SKVfsNieEeiLvJuEBxK8-w" featurename="commands" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="commands:Command" xmi:id="_UlG5ANieEeiLvJuEBxK8-w" elementId="project1025-zest-ast-ayinala.command.findemptymethods" commandName="Find Empty Methods"/>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_vLaCMNieEeiLvJuEBxK8-w" featurename="handlers" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="commands:Handler" xmi:id="_yoTm4NieEeiLvJuEBxK8-w" elementId="project1025-zest-ast-ayinala.handler.0" contributionURI="bundleclass://project1025-zest-ast-Ayinala/handler.FindEmptyMethodsHandler" command="_UlG5ANieEeiLvJuEBxK8-w"/>
+  </fragments>
+</fragment:ModelFragments>

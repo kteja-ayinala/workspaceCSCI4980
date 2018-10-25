@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ASCII"?>
+<fragment:ModelFragments xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/descriptor/basic" xmlns:commands="http://www.eclipse.org/ui/2010/UIModel/application/commands" xmlns:fragment="http://www.eclipse.org/ui/2010/UIModel/fragment" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_RvvLIKxhEeWL_JdYH98z8w">
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_UWOFMKxhEeWL_JdYH98z8w" featurename="descriptors" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="basic:PartDescriptor" xmi:id="_eeiZAKxhEeWL_JdYH98z8w" elementId="simplezestproject2.partdescriptor.simpleastzestview" label="Simple AST Zest View" iconURI="platform:/plugin/simpleZestProject2/icons/sample.png" closeable="true" contributionURI="bundleclass://simpleZestProject2/view.SimpleASTZestView">
+      <menus xsi:type="menu:PopupMenu" xmi:id="_SVAHkNfuEeiuKuY5cmY9gw" elementId="simplezestproject2.popupmenu.mypopupmenu" label="My Popup Menu">
+        <children xsi:type="menu:HandledMenuItem" xmi:id="_UYzyYNfuEeiuKuY5cmY9gw" elementId="simplezestproject2.handledmenuitem.findemptymethod" label="Find Empty Methods" command="_YKG5wNfuEeiuKuY5cmY9gw"/>
+      </menus>
+    </elements>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_U1R_wKxhEeWL_JdYH98z8w" featurename="commands" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="commands:Command" xmi:id="_k36V4KxhEeWL_JdYH98z8w" elementId="simplezestproject2.command.updatezestview" commandName="Update Zest View"/>
+    <elements xsi:type="commands:Command" xmi:id="_YKG5wNfuEeiuKuY5cmY9gw" elementId="simplezestproject2.command.findemptymethod" commandName="Find Empty Methods"/>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_VF-HIKxhEeWL_JdYH98z8w" featurename="handlers" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="commands:Handler" xmi:id="_o5mCoKxhEeWL_JdYH98z8w" elementId="simplezestproject2.handler.0" contributionURI="bundleclass://simpleZestProject2/handler.ASTZestHandler" command="_k36V4KxhEeWL_JdYH98z8w"/>
+    <elements xsi:type="commands:Handler" xmi:id="_Ztxr8NfuEeiuKuY5cmY9gw" elementId="simplezestproject2.handler.1" contributionURI="bundleclass://simpleZestProject2/handler.FindEmptyMethodHandler" command="_YKG5wNfuEeiuKuY5cmY9gw"/>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_U_4QwKxiEeWL_JdYH98z8w" featurename="menuContributions" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="menu:MenuContribution" xmi:id="_e530sKxiEeWL_JdYH98z8w" elementId="simplezestproject2.menucontribution.0" positionInParent="after=window" parentId="org.eclipse.ui.main.menu">
+      <children xsi:type="menu:Menu" xmi:id="_wR0X8KxiEeWL_JdYH98z8w" elementId="id.mymenu" label="My Menu">
+        <children xsi:type="menu:HandledMenuItem" xmi:id="_jF8MgKxiEeWL_JdYH98z8w" elementId="id.myitem1" label="Update Zest View" command="_k36V4KxhEeWL_JdYH98z8w"/>
+      </children>
+    </elements>
+  </fragments>
+</fragment:ModelFragments>
