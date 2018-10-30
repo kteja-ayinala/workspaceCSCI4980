@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ASCII"?>
+<fragment:ModelFragments xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/descriptor/basic" xmlns:commands="http://www.eclipse.org/ui/2010/UIModel/application/commands" xmlns:fragment="http://www.eclipse.org/ui/2010/UIModel/fragment" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_nAAqkL4XEeWS1vppwIGIuQ">
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_onrL8L4XEeWS1vppwIGIuQ" featurename="commands" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="commands:Command" xmi:id="_3kQgAL4XEeWS1vppwIGIuQ" elementId="simplezestproject3.command.viewzest3" commandName="View Zest3"/>
+    <elements xsi:type="commands:Command" xmi:id="_t53RYMCsEeaaIKyfmch5OA" elementId="simplezestproject3.command.clearview" commandName="Clear View"/>
+    <elements xsi:type="commands:Command" xmi:id="_FtbXYNvxEeiyRp2YSCNncQ" elementId="simplezestproject3.command.readfileshowgraph" commandName="Read File Show Graph"/>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_pGnKsL4XEeWS1vppwIGIuQ" featurename="handlers" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="commands:Handler" xmi:id="_9tE4YL4XEeWS1vppwIGIuQ" elementId="simplezestproject3.handler.0" contributionURI="bundleclass://simpleZestProject3/handler.UpdateZestViewHandler" command="_3kQgAL4XEeWS1vppwIGIuQ"/>
+    <elements xsi:type="commands:Handler" xmi:id="_xYjl0MCsEeaaIKyfmch5OA" elementId="simplezestproject3.handler.1" contributionURI="bundleclass://simpleZestProject3/handler.ClearViewHandler" command="_t53RYMCsEeaaIKyfmch5OA"/>
+    <elements xsi:type="commands:Handler" xmi:id="_IEkN4NvxEeiyRp2YSCNncQ" elementId="simplezestproject3.handler.2" contributionURI="bundleclass://simpleZestProject3/handler.ReadFileShowGraphHandler" command="_FtbXYNvxEeiyRp2YSCNncQ"/>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_oEEIkL4XEeWS1vppwIGIuQ" featurename="descriptors" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="basic:PartDescriptor" xmi:id="_yrwgAL4XEeWS1vppwIGIuQ" elementId="simplezestproject3.partdescriptor.simplezestview3" label="Simple Zest View3" iconURI="platform:/plugin/simpleZestProject3/icons/sample.png" contributionURI="bundleclass://simpleZestProject3/view.SimpleZestView">
+      <menus xsi:type="menu:PopupMenu" xmi:id="_6-VXcNvwEeiyRp2YSCNncQ" elementId="simplezestproject3.popupmenu.mypopup" label="My Popup">
+        <children xsi:type="menu:HandledMenuItem" xmi:id="_-cbO8NvwEeiyRp2YSCNncQ" elementId="simplezestproject3.handledmenuitem.readfileshowgraph" label="Read File + Show Graph" command="_FtbXYNvxEeiyRp2YSCNncQ"/>
+      </menus>
+    </elements>
+    <elements xsi:type="basic:PartDescriptor" xmi:id="_SuWUcM4LEeWmzO9QplAnow" elementId="simplezestproject3.partdescriptor.simpleview" label="Simple View" iconURI="platform:/plugin/simpleZestProject3/icons/sample.png" contributionURI="bundleclass://simpleZestProject3/view.SimpleView">
+      <menus xsi:type="menu:PopupMenu" xmi:id="_ml7wwMCsEeaaIKyfmch5OA" elementId="simplezestproject3.popupmenu.mypopupmenu" label="My Popup Menu">
+        <children xsi:type="menu:HandledMenuItem" xmi:id="_qADuQMCsEeaaIKyfmch5OA" elementId="simplezestproject3.handledmenuitem.clearview" label="Clear View" command="_t53RYMCsEeaaIKyfmch5OA"/>
+      </menus>
+    </elements>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_pzv9gL4XEeWS1vppwIGIuQ" featurename="menuContributions" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="menu:MenuContribution" xmi:id="_DMqtkL4YEeWS1vppwIGIuQ" elementId="simplezestproject3.menucontribution.0" positionInParent="after=window" parentId="org.eclipse.ui.main.menu">
+      <children xsi:type="menu:Menu" xmi:id="_F98iYL4YEeWS1vppwIGIuQ" elementId="id.mymenu" label="My Menu">
+        <children xsi:type="menu:HandledMenuItem" xmi:id="_HB-yQL4YEeWS1vppwIGIuQ" elementId="simplezestproject3.handledmenuitem.item-viewzest3" label="Item - View Zest3" command="_3kQgAL4XEeWS1vppwIGIuQ"/>
+      </children>
+    </elements>
+  </fragments>
+</fragment:ModelFragments>
