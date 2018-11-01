@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ASCII"?>
+<fragment:ModelFragments xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/descriptor/basic" xmlns:commands="http://www.eclipse.org/ui/2010/UIModel/application/commands" xmlns:fragment="http://www.eclipse.org/ui/2010/UIModel/fragment" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_po-UIN4fEei-FqhZCxcT1g">
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_q4QxwN4fEei-FqhZCxcT1g" featurename="descriptors" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="basic:PartDescriptor" xmi:id="_zyMm4N4fEei-FqhZCxcT1g" elementId="project1101-zest-ast-type-ayinala.partdescriptor.simplezestview-ast-type-1101ayinala" label="Simple Zest View - AST -TYPE - 1101 Ayinala" contributionURI="bundleclass://project1101-zest-ast-type-Ayinala/view.SimpleZestViewASTTYPE1101Ayinala">
+      <menus xsi:type="menu:PopupMenu" xmi:id="_CKe7EN4gEei-FqhZCxcT1g" elementId="project1101-zest-ast-type-ayinala.popupmenu.mypopupmenu" label="My popup menu">
+        <children xsi:type="menu:HandledMenuItem" xmi:id="_DzsUkN4gEei-FqhZCxcT1g" elementId="project1101-zest-ast-type-ayinala.handledmenuitem.updategraphview" label="Update Graph View" command="_M7JoUN4gEei-FqhZCxcT1g"/>
+      </menus>
+    </elements>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_KQpw8N4gEei-FqhZCxcT1g" featurename="commands" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="commands:Command" xmi:id="_M7JoUN4gEei-FqhZCxcT1g" elementId="project1101-zest-ast-type-ayinala.command.updategraphview" commandName="Update Graph View"/>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_PoFvsN4gEei-FqhZCxcT1g" featurename="handlers" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="commands:Handler" xmi:id="_Xdb7UN4gEei-FqhZCxcT1g" elementId="project1101-zest-ast-type-ayinala.handler.0" contributionURI="bundleclass://project1101-zest-ast-type-Ayinala/handler.UpdateGraphViewHandler" command="_M7JoUN4gEei-FqhZCxcT1g"/>
+  </fragments>
+</fragment:ModelFragments>

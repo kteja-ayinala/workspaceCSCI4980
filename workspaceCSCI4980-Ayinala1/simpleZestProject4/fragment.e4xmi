@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ASCII"?>
+<fragment:ModelFragments xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/descriptor/basic" xmlns:commands="http://www.eclipse.org/ui/2010/UIModel/application/commands" xmlns:fragment="http://www.eclipse.org/ui/2010/UIModel/fragment" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_oDqLAL46EeWS1vppwIGIuQ">
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_qS0xQL46EeWS1vppwIGIuQ" featurename="descriptors" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="basic:PartDescriptor" xmi:id="_x0-UEL46EeWS1vppwIGIuQ" elementId="simplezestproject4.partdescriptor.simplezestview4" label="Simple Zest View 4" iconURI="platform:/plugin/simpleZestProject4/icons/sample.png" contributionURI="bundleclass://simpleZestProject4/view.SimpleZestGraphView">
+      <menus xsi:type="menu:PopupMenu" xmi:id="_5C2oEN02EeisSfn75J_4eQ" elementId="simplezestproject4.popupmenu.mypopupmenu" label="My Popup Menu">
+        <children xsi:type="menu:HandledMenuItem" xmi:id="_7zs_EN02EeisSfn75J_4eQ" elementId="simplezestproject4.handledmenuitem.updategraphview" label="Update Graph View" command="_s9UZoN02EeisSfn75J_4eQ"/>
+      </menus>
+    </elements>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_q08m4L46EeWS1vppwIGIuQ" featurename="commands" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="commands:Command" xmi:id="_2gK34L46EeWS1vppwIGIuQ" elementId="simplezestproject4.command.viewastnodes" commandName="Update Graph View"/>
+    <elements xsi:type="commands:Command" xmi:id="_s9UZoN02EeisSfn75J_4eQ" elementId="simplezestproject4.command.updategraphview" commandName="Update Graph View Class Ex"/>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_rRyT4L46EeWS1vppwIGIuQ" featurename="handlers" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="commands:Handler" xmi:id="_7WE24L46EeWS1vppwIGIuQ" elementId="simplezestproject4.handler.0" contributionURI="bundleclass://simpleZestProject4/handler.UpdateGraphViewHandler" command="_2gK34L46EeWS1vppwIGIuQ"/>
+    <elements xsi:type="commands:Handler" xmi:id="_wKv-8N02EeisSfn75J_4eQ" elementId="simplezestproject4.handler.1" contributionURI="bundleclass://simpleZestProject4/handler.UpdateGraphViewHandlerClassEx" command="_s9UZoN02EeisSfn75J_4eQ"/>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_r6cPUL46EeWS1vppwIGIuQ" featurename="menuContributions" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="menu:MenuContribution" xmi:id="_DithIL47EeWS1vppwIGIuQ" elementId="simplezestproject4.menucontribution.0" positionInParent="after=window" parentId="org.eclipse.ui.main.menu">
+      <children xsi:type="menu:Menu" xmi:id="_A_CqgL47EeWS1vppwIGIuQ" elementId="simplezestproject4.menu.mymenu" label="My Menu">
+        <children xsi:type="menu:HandledMenuItem" xmi:id="_HmhU0L47EeWS1vppwIGIuQ" elementId="simplezestproject4.handledmenuitem.item-showastnodes" label="Item - Show AST Nodes" command="_2gK34L46EeWS1vppwIGIuQ"/>
+      </children>
+    </elements>
+  </fragments>
+</fragment:ModelFragments>
