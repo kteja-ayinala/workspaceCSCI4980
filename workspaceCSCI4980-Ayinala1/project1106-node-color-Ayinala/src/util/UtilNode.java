@@ -35,7 +35,7 @@ public class UtilNode {
        graphNode.setBorderColor(ColorConstants.red);
        graphNode.setHighlightColor(ColorConstants.blue);
        graphNode.setBorderHighlightColor(ColorConstants.red);
-       node.setNodeType(GNodeType.UserDoubleClicked);
+       node.setNodeType(GNodeType.InValid);
    }
 
    public static boolean isPackageNode(EventObject e) {
