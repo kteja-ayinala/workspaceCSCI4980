@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ASCII"?>
+<fragment:ModelFragments xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/descriptor/basic" xmlns:commands="http://www.eclipse.org/ui/2010/UIModel/application/commands" xmlns:fragment="http://www.eclipse.org/ui/2010/UIModel/fragment" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_LA6_YO0KEeiM6_XX1VUFNw">
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_Lp65EO0KEeiM6_XX1VUFNw" featurename="descriptors" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="basic:PartDescriptor" xmi:id="_m1wJgO0QEeisys0mRr6Umg" elementId="project1120-q3-ayinala.partdescriptor.ayinalazestview" label="Ayinala zest view" contributionURI="bundleclass://project1120-Q3-Ayinala/view.AyinalaZestView">
+      <menus xsi:type="menu:PopupMenu" xmi:id="_wvaWQO0QEeisys0mRr6Umg" elementId="project1120-q3-ayinala.popupmenu.mypopupmenu" label="My Popup Menu">
+        <children xsi:type="menu:HandledMenuItem" xmi:id="_yQDpoO0QEeisys0mRr6Umg" elementId="project1120-q3-ayinala.handledmenuitem.ayinalamenuitem" label="AyinalaMenuItem" command="_6lAiYO0QEeisys0mRr6Umg"/>
+      </menus>
+    </elements>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_3t054O0QEeisys0mRr6Umg" featurename="commands" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="commands:Command" xmi:id="_6lAiYO0QEeisys0mRr6Umg" elementId="project1120-q3-ayinala.command.ayinalamenuitem" commandName="Ayinala Menu Item"/>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_Kt9i8O0REeisys0mRr6Umg" featurename="handlers" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="commands:Handler" xmi:id="_TLvAgO0REeisys0mRr6Umg" elementId="project1120-q3-ayinala.handler.0" contributionURI="bundleclass://project1120-Q3-Ayinala/handler.UpdateGraphHandler" command="_6lAiYO0QEeisys0mRr6Umg"/>
+  </fragments>
+</fragment:ModelFragments>

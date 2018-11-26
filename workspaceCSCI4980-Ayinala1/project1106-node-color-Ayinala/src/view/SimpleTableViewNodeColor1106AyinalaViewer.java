@@ -118,7 +118,6 @@ public class SimpleTableViewNodeColor1106AyinalaViewer {
 					}
 				} else if (UtilNode.isPackageNode(e)) {
 
-					// TODO: Class Exercise
 
 					prevSelectedDstGraphNode = selectedDstGraphNode;
 					selectedDstGraphNode = (GraphNode) ((Graph) e.getSource()).getSelection().get(0);

@@ -57,7 +57,7 @@ public class DeclarationVisitorClassEx extends ASTVisitor {
 
 	void addConnection(GNode srcGNode, ASTNode astNode) {
 		// Add a node
-		GNode dstGNode = createGNode(astNode, UtilNode.getName(astNode));
+		GNode dstGNode = createGNode(astNode, UtilNode.getName(astNode), UtilNode.getTypeModifier(astNode));
 		GModelBuilder.instance().getNodes().add(dstGNode);
 		// Add a connection
 		String conId = srcGNode.getId() + dstGNode.getId();
@@ -72,10 +72,15 @@ public class DeclarationVisitorClassEx extends ASTVisitor {
 		nodeMap.put(UtilNode.getName(astNode) + ":" + astNode.getStartPosition(), dstGNode);
 	}
 
-	GNode createGNode(ASTNode astNode, String nodeName) {
+	GNode createGNode(ASTNode astNode, String nodeName, String type) {
 		String dstGNodeId = nodeName + astNode.getStartPosition();
 		if (astNode instanceof TypeDeclaration) {
-			return new GClassNode(dstGNodeId, nodeName);
+			if (type == "public") {
+				return new GClassNode(dstGNodeId, nodeName, true);
+			} else {
+				return new GClassNode(dstGNodeId, nodeName, false);
+			}
+
 		} else {
 			return new GMethodNode(dstGNodeId, nodeName);
 		}

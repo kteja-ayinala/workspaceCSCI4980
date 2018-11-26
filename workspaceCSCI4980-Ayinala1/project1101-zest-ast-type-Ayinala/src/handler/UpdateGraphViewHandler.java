@@ -5,7 +5,7 @@ import org.eclipse.e4.core.di.annotations.Execute;
 import org.eclipse.e4.ui.model.application.ui.basic.MPart;
 import org.eclipse.e4.ui.workbench.modeling.EPartService;
 
-import analysis.ProjectAnalyzer;
+
 import analysis.ProjectAnalyzerClassEx;
 import util.UtilMsg;
 import view.SimpleZestViewASTTYPE1101Ayinala;

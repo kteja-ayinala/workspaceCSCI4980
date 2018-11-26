@@ -25,6 +25,7 @@ public class GNode {
    public String getName() {
       return name;
    }
+   
 
    public List<GNode> getConnectedTo() {
       return connections;

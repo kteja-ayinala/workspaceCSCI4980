@@ -138,3 +138,159 @@
 [2018-11-06 16:56:45] Performing Preference /instance/org.eclipse.pde.core/vm_launcher_ini = 
 [2018-11-06 16:56:45] Performing Preference /instance/org.eclipse.pde.ui/Preferences.MainPage.overwriteBuildFilesOnExport = prompt
 [2018-11-06 16:56:45] 
+[2018-11-11 18:36:51] Executing startup tasks
+[2018-11-11 18:36:51] Java(TM) SE Runtime Environment 1.8.0_181-b13
+[2018-11-11 18:36:51] Product self.product.version
+[2018-11-11 18:36:51] Bundle org.eclipse.oomph.setup 1.7.0.v20170224-1311, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-11-11 18:36:51] Bundle org.eclipse.oomph.setup.core 1.7.0.v20170301-0747, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-11-11 18:36:51] Bundle org.eclipse.oomph.setup.p2 1.7.0.v20170217-1051, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-11-11 18:36:51] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.SWT_LIB = /Users/krishnatejaayinala/workspaces/org.eclipse.swt.cocoa.macosx.x86_64-4.3.jar
+[2018-11-11 18:36:51] Performing Preference /instance/org.eclipse.pde.core/additional_locations = 
+[2018-11-11 18:36:51] Performing Preference /instance/org.eclipse.pde.core/checkedPlugins = 
+[2018-11-11 18:36:51] Performing Preference /instance/org.eclipse.pde.core/checkedVersionPlugins = 
+[2018-11-11 18:36:51] Performing Preference /instance/org.eclipse.pde.core/external_features = 
+[2018-11-11 18:36:51] Performing Preference /instance/org.eclipse.pde.core/implicit_dependencies = 
+[2018-11-11 18:36:51] Performing Preference /instance/org.eclipse.pde.core/org.eclipse.pde.ui.arch = 
+[2018-11-11 18:36:51] Performing Preference /instance/org.eclipse.pde.core/org.eclipse.pde.ui.nl = 
+[2018-11-11 18:36:51] Performing Preference /instance/org.eclipse.pde.core/org.eclipse.pde.ui.os = 
+[2018-11-11 18:36:51] Performing Preference /instance/org.eclipse.pde.core/org.eclipse.pde.ui.ws = 
+[2018-11-11 18:36:51] Performing Preference /instance/org.eclipse.pde.core/pooled_bundles = 
+[2018-11-11 18:36:51] Performing Preference /instance/org.eclipse.pde.core/pooled_urls = 
+[2018-11-11 18:36:51] Performing Preference /instance/org.eclipse.pde.core/program_args = 
+[2018-11-11 18:36:51] Performing Preference /instance/org.eclipse.pde.core/target.profile = 
+[2018-11-11 18:36:51] Performing Preference /instance/org.eclipse.pde.core/target_mode = 
+[2018-11-11 18:36:51] Performing Preference /instance/org.eclipse.pde.core/target_platform_realization = 
+[2018-11-11 18:36:51] Performing Preference /instance/org.eclipse.pde.core/vm_args = 
+[2018-11-11 18:36:51] Performing Preference /instance/org.eclipse.pde.core/vm_launcher_ini = 
+[2018-11-11 18:36:52] Performing Preference /instance/org.eclipse.pde.ui/Preferences.MainPage.overwriteBuildFilesOnExport = prompt
+[2018-11-11 18:36:52] 
+[2018-11-11 18:39:14] Executing startup tasks
+[2018-11-11 18:39:14] Java(TM) SE Runtime Environment 1.8.0_181-b13
+[2018-11-11 18:39:14] Product self.product.version
+[2018-11-11 18:39:14] Bundle org.eclipse.oomph.setup 1.7.0.v20170224-1311, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-11-11 18:39:14] Bundle org.eclipse.oomph.setup.core 1.7.0.v20170301-0747, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-11-11 18:39:14] Bundle org.eclipse.oomph.setup.p2 1.7.0.v20170217-1051, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-11-11 18:39:14] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.SWT_LIB = /Users/krishnatejaayinala/workspaces/org.eclipse.swt.cocoa.macosx.x86_64-4.3.jar
+[2018-11-11 18:39:14] Performing Preference /instance/org.eclipse.pde.core/additional_locations = 
+[2018-11-11 18:39:14] Performing Preference /instance/org.eclipse.pde.core/checkedPlugins = 
+[2018-11-11 18:39:14] Performing Preference /instance/org.eclipse.pde.core/checkedVersionPlugins = 
+[2018-11-11 18:39:14] Performing Preference /instance/org.eclipse.pde.core/external_features = 
+[2018-11-11 18:39:14] Performing Preference /instance/org.eclipse.pde.core/implicit_dependencies = 
+[2018-11-11 18:39:14] Performing Preference /instance/org.eclipse.pde.core/org.eclipse.pde.ui.arch = 
+[2018-11-11 18:39:14] Performing Preference /instance/org.eclipse.pde.core/org.eclipse.pde.ui.nl = 
+[2018-11-11 18:39:14] Performing Preference /instance/org.eclipse.pde.core/org.eclipse.pde.ui.os = 
+[2018-11-11 18:39:14] Performing Preference /instance/org.eclipse.pde.core/org.eclipse.pde.ui.ws = 
+[2018-11-11 18:39:14] Performing Preference /instance/org.eclipse.pde.core/pooled_bundles = 
+[2018-11-11 18:39:14] Performing Preference /instance/org.eclipse.pde.core/pooled_urls = 
+[2018-11-11 18:39:14] Performing Preference /instance/org.eclipse.pde.core/program_args = 
+[2018-11-11 18:39:14] Performing Preference /instance/org.eclipse.pde.core/target.profile = 
+[2018-11-11 18:39:14] Performing Preference /instance/org.eclipse.pde.core/target_mode = 
+[2018-11-11 18:39:14] Performing Preference /instance/org.eclipse.pde.core/target_platform_realization = 
+[2018-11-11 18:39:14] Performing Preference /instance/org.eclipse.pde.core/vm_args = 
+[2018-11-11 18:39:14] Performing Preference /instance/org.eclipse.pde.core/vm_launcher_ini = 
+[2018-11-11 18:39:14] Performing Preference /instance/org.eclipse.pde.ui/Preferences.MainPage.overwriteBuildFilesOnExport = prompt
+[2018-11-11 18:39:14] 
+[2018-11-11 18:41:38] Executing startup tasks
+[2018-11-11 18:41:39] Java(TM) SE Runtime Environment 1.8.0_181-b13
+[2018-11-11 18:41:39] Product self.product.version
+[2018-11-11 18:41:39] Bundle org.eclipse.oomph.setup 1.7.0.v20170224-1311, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-11-11 18:41:39] Bundle org.eclipse.oomph.setup.core 1.7.0.v20170301-0747, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-11-11 18:41:39] Bundle org.eclipse.oomph.setup.p2 1.7.0.v20170217-1051, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-11-11 18:41:39] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.SWT_LIB = /Users/krishnatejaayinala/workspaces/org.eclipse.swt.cocoa.macosx.x86_64-4.3.jar
+[2018-11-11 18:41:39] Performing Preference /instance/org.eclipse.pde.core/additional_locations = 
+[2018-11-11 18:41:39] Performing Preference /instance/org.eclipse.pde.core/checkedPlugins = 
+[2018-11-11 18:41:39] Performing Preference /instance/org.eclipse.pde.core/checkedVersionPlugins = 
+[2018-11-11 18:41:39] Performing Preference /instance/org.eclipse.pde.core/external_features = 
+[2018-11-11 18:41:39] Performing Preference /instance/org.eclipse.pde.core/implicit_dependencies = 
+[2018-11-11 18:41:39] Performing Preference /instance/org.eclipse.pde.core/org.eclipse.pde.ui.arch = 
+[2018-11-11 18:41:39] Performing Preference /instance/org.eclipse.pde.core/org.eclipse.pde.ui.nl = 
+[2018-11-11 18:41:39] Performing Preference /instance/org.eclipse.pde.core/org.eclipse.pde.ui.os = 
+[2018-11-11 18:41:39] Performing Preference /instance/org.eclipse.pde.core/org.eclipse.pde.ui.ws = 
+[2018-11-11 18:41:39] Performing Preference /instance/org.eclipse.pde.core/pooled_bundles = 
+[2018-11-11 18:41:39] Performing Preference /instance/org.eclipse.pde.core/pooled_urls = 
+[2018-11-11 18:41:39] Performing Preference /instance/org.eclipse.pde.core/program_args = 
+[2018-11-11 18:41:39] Performing Preference /instance/org.eclipse.pde.core/target.profile = 
+[2018-11-11 18:41:39] Performing Preference /instance/org.eclipse.pde.core/target_mode = 
+[2018-11-11 18:41:39] Performing Preference /instance/org.eclipse.pde.core/target_platform_realization = 
+[2018-11-11 18:41:39] Performing Preference /instance/org.eclipse.pde.core/vm_args = 
+[2018-11-11 18:41:39] Performing Preference /instance/org.eclipse.pde.core/vm_launcher_ini = 
+[2018-11-11 18:41:39] Performing Preference /instance/org.eclipse.pde.ui/Preferences.MainPage.overwriteBuildFilesOnExport = prompt
+[2018-11-11 18:41:39] 
+[2018-11-20 16:14:05] Executing startup tasks
+[2018-11-20 16:14:05] Java(TM) SE Runtime Environment 1.8.0_181-b13
+[2018-11-20 16:14:05] Product self.product.version
+[2018-11-20 16:14:05] Bundle org.eclipse.oomph.setup 1.7.0.v20170224-1311, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-11-20 16:14:05] Bundle org.eclipse.oomph.setup.core 1.7.0.v20170301-0747, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-11-20 16:14:05] Bundle org.eclipse.oomph.setup.p2 1.7.0.v20170217-1051, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-11-20 16:14:05] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.SWT_LIB = /Users/krishnatejaayinala/workspaces/org.eclipse.swt.cocoa.macosx.x86_64-4.3.jar
+[2018-11-20 16:14:05] Performing Preference /instance/org.eclipse.pde.core/additional_locations = 
+[2018-11-20 16:14:05] Performing Preference /instance/org.eclipse.pde.core/checkedPlugins = 
+[2018-11-20 16:14:05] Performing Preference /instance/org.eclipse.pde.core/checkedVersionPlugins = 
+[2018-11-20 16:14:05] Performing Preference /instance/org.eclipse.pde.core/external_features = 
+[2018-11-20 16:14:05] Performing Preference /instance/org.eclipse.pde.core/implicit_dependencies = 
+[2018-11-20 16:14:05] Performing Preference /instance/org.eclipse.pde.core/org.eclipse.pde.ui.arch = 
+[2018-11-20 16:14:05] Performing Preference /instance/org.eclipse.pde.core/org.eclipse.pde.ui.nl = 
+[2018-11-20 16:14:05] Performing Preference /instance/org.eclipse.pde.core/org.eclipse.pde.ui.os = 
+[2018-11-20 16:14:05] Performing Preference /instance/org.eclipse.pde.core/org.eclipse.pde.ui.ws = 
+[2018-11-20 16:14:05] Performing Preference /instance/org.eclipse.pde.core/pooled_bundles = 
+[2018-11-20 16:14:05] Performing Preference /instance/org.eclipse.pde.core/pooled_urls = 
+[2018-11-20 16:14:05] Performing Preference /instance/org.eclipse.pde.core/program_args = 
+[2018-11-20 16:14:05] Performing Preference /instance/org.eclipse.pde.core/target.profile = 
+[2018-11-20 16:14:05] Performing Preference /instance/org.eclipse.pde.core/target_mode = 
+[2018-11-20 16:14:05] Performing Preference /instance/org.eclipse.pde.core/target_platform_realization = 
+[2018-11-20 16:14:05] Performing Preference /instance/org.eclipse.pde.core/vm_args = 
+[2018-11-20 16:14:05] Performing Preference /instance/org.eclipse.pde.core/vm_launcher_ini = 
+[2018-11-20 16:14:05] Performing Preference /instance/org.eclipse.pde.ui/Preferences.MainPage.overwriteBuildFilesOnExport = prompt
+[2018-11-20 16:14:05] 
+[2018-11-20 16:35:12] Executing startup tasks
+[2018-11-20 16:35:12] Java(TM) SE Runtime Environment 1.8.0_181-b13
+[2018-11-20 16:35:12] Product self.product.version
+[2018-11-20 16:35:12] Bundle org.eclipse.oomph.setup 1.7.0.v20170224-1311, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-11-20 16:35:12] Bundle org.eclipse.oomph.setup.core 1.7.0.v20170301-0747, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-11-20 16:35:12] Bundle org.eclipse.oomph.setup.p2 1.7.0.v20170217-1051, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-11-20 16:35:12] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.SWT_LIB = /Users/krishnatejaayinala/workspaces/org.eclipse.swt.cocoa.macosx.x86_64-4.3.jar
+[2018-11-20 16:35:12] Performing Preference /instance/org.eclipse.pde.core/additional_locations = 
+[2018-11-20 16:35:12] Performing Preference /instance/org.eclipse.pde.core/checkedPlugins = 
+[2018-11-20 16:35:12] Performing Preference /instance/org.eclipse.pde.core/checkedVersionPlugins = 
+[2018-11-20 16:35:12] Performing Preference /instance/org.eclipse.pde.core/external_features = 
+[2018-11-20 16:35:12] Performing Preference /instance/org.eclipse.pde.core/implicit_dependencies = 
+[2018-11-20 16:35:12] Performing Preference /instance/org.eclipse.pde.core/org.eclipse.pde.ui.arch = 
+[2018-11-20 16:35:12] Performing Preference /instance/org.eclipse.pde.core/org.eclipse.pde.ui.nl = 
+[2018-11-20 16:35:12] Performing Preference /instance/org.eclipse.pde.core/org.eclipse.pde.ui.os = 
+[2018-11-20 16:35:12] Performing Preference /instance/org.eclipse.pde.core/org.eclipse.pde.ui.ws = 
+[2018-11-20 16:35:12] Performing Preference /instance/org.eclipse.pde.core/pooled_bundles = 
+[2018-11-20 16:35:12] Performing Preference /instance/org.eclipse.pde.core/pooled_urls = 
+[2018-11-20 16:35:12] Performing Preference /instance/org.eclipse.pde.core/program_args = 
+[2018-11-20 16:35:12] Performing Preference /instance/org.eclipse.pde.core/target.profile = 
+[2018-11-20 16:35:12] Performing Preference /instance/org.eclipse.pde.core/target_mode = 
+[2018-11-20 16:35:12] Performing Preference /instance/org.eclipse.pde.core/target_platform_realization = 
+[2018-11-20 16:35:12] Performing Preference /instance/org.eclipse.pde.core/vm_args = 
+[2018-11-20 16:35:12] Performing Preference /instance/org.eclipse.pde.core/vm_launcher_ini = 
+[2018-11-20 16:35:12] Performing Preference /instance/org.eclipse.pde.ui/Preferences.MainPage.overwriteBuildFilesOnExport = prompt
+[2018-11-20 16:35:12] 
+[2018-11-20 18:25:10] Executing startup tasks
+[2018-11-20 18:25:10] Java(TM) SE Runtime Environment 1.8.0_181-b13
+[2018-11-20 18:25:10] Product self.product.version
+[2018-11-20 18:25:10] Bundle org.eclipse.oomph.setup 1.7.0.v20170224-1311, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-11-20 18:25:10] Bundle org.eclipse.oomph.setup.core 1.7.0.v20170301-0747, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-11-20 18:25:10] Bundle org.eclipse.oomph.setup.p2 1.7.0.v20170217-1051, build=2932, branch=cc66c993507ade50e4b3a824a3adb4e94c4ac25f
+[2018-11-20 18:25:10] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.SWT_LIB = /Users/krishnatejaayinala/workspaces/org.eclipse.swt.cocoa.macosx.x86_64-4.3.jar
+[2018-11-20 18:25:10] Performing Preference /instance/org.eclipse.pde.core/additional_locations = 
+[2018-11-20 18:25:10] Performing Preference /instance/org.eclipse.pde.core/checkedPlugins = 
+[2018-11-20 18:25:10] Performing Preference /instance/org.eclipse.pde.core/checkedVersionPlugins = 
+[2018-11-20 18:25:10] Performing Preference /instance/org.eclipse.pde.core/external_features = 
+[2018-11-20 18:25:10] Performing Preference /instance/org.eclipse.pde.core/implicit_dependencies = 
+[2018-11-20 18:25:10] Performing Preference /instance/org.eclipse.pde.core/org.eclipse.pde.ui.arch = 
+[2018-11-20 18:25:10] Performing Preference /instance/org.eclipse.pde.core/org.eclipse.pde.ui.nl = 
+[2018-11-20 18:25:10] Performing Preference /instance/org.eclipse.pde.core/org.eclipse.pde.ui.os = 
+[2018-11-20 18:25:10] Performing Preference /instance/org.eclipse.pde.core/org.eclipse.pde.ui.ws = 
+[2018-11-20 18:25:10] Performing Preference /instance/org.eclipse.pde.core/pooled_bundles = 
+[2018-11-20 18:25:10] Performing Preference /instance/org.eclipse.pde.core/pooled_urls = 
+[2018-11-20 18:25:10] Performing Preference /instance/org.eclipse.pde.core/program_args = 
+[2018-11-20 18:25:10] Performing Preference /instance/org.eclipse.pde.core/target.profile = 
+[2018-11-20 18:25:10] Performing Preference /instance/org.eclipse.pde.core/target_mode = 
+[2018-11-20 18:25:10] Performing Preference /instance/org.eclipse.pde.core/target_platform_realization = 
+[2018-11-20 18:25:10] Performing Preference /instance/org.eclipse.pde.core/vm_args = 
+[2018-11-20 18:25:10] Performing Preference /instance/org.eclipse.pde.core/vm_launcher_ini = 
+[2018-11-20 18:25:10] Performing Preference /instance/org.eclipse.pde.ui/Preferences.MainPage.overwriteBuildFilesOnExport = prompt
+[2018-11-20 18:25:10] 
