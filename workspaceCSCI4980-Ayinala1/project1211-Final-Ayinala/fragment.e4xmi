@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ASCII"?>
+<fragment:ModelFragments xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/descriptor/basic" xmlns:commands="http://www.eclipse.org/ui/2010/UIModel/application/commands" xmlns:fragment="http://www.eclipse.org/ui/2010/UIModel/fragment" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_x3ZPUPzlEeifkaNUdVrxKw">
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_zloSwPzlEeifkaNUdVrxKw" featurename="descriptors" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="basic:PartDescriptor" xmi:id="_28v_kPzlEeifkaNUdVrxKw" elementId="project1211-final-ayinala.partdescriptor.ayinalazestview" label="Ayinala Zest View" contributionURI="bundleclass://project1211-Final-Ayinala/view.AyinalaZestView"/>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_EuMrUPzoEeifkaNUdVrxKw" featurename="commands" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="commands:Command" xmi:id="_H4qcMPzoEeifkaNUdVrxKw" elementId="project1211-final-ayinala.command.ayinalamainmenuitem" commandName="Ayinala Main Menu Item"/>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_PSw2QPzoEeifkaNUdVrxKw" featurename="menuContributions" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="menu:MenuContribution" xmi:id="_SuTwEPzoEeifkaNUdVrxKw" elementId="project1211-final-ayinala.menucontribution.0" accessibilityPhrase="Ayinala Main Menu" positionInParent="after=window" parentId="org.eclipse.ui.main.menu">
+      <children xsi:type="menu:Menu" xmi:id="_daPHQPzoEeifkaNUdVrxKw" elementId="project1211-final-ayinala.menu.ayinalamainmenu" label="Ayinala Main Menu">
+        <children xsi:type="menu:HandledMenuItem" xmi:id="_gTP7wPzoEeifkaNUdVrxKw" elementId="project1211-final-ayinala.handledmenuitem.ayinalamainmenu" label="Ayinala Main Menu Item" command="_H4qcMPzoEeifkaNUdVrxKw"/>
+      </children>
+    </elements>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_3C9N4PzoEeifkaNUdVrxKw" featurename="handlers" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="commands:Handler" xmi:id="_6Mt0IPzoEeifkaNUdVrxKw" elementId="project1211-final-ayinala.handler.0" contributionURI="bundleclass://project1211-Final-Ayinala/handler.AyinalMainMenuItemHandler" command="_H4qcMPzoEeifkaNUdVrxKw"/>
+  </fragments>
+</fragment:ModelFragments>

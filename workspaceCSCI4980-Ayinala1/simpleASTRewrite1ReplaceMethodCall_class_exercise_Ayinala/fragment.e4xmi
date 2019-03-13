@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ASCII"?>
+<fragment:ModelFragments xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/descriptor/basic" xmlns:commands="http://www.eclipse.org/ui/2010/UIModel/application/commands" xmlns:fragment="http://www.eclipse.org/ui/2010/UIModel/fragment" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_-VJJALClEeW3xpJTBPlB6A">
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="__F7FsLClEeW3xpJTBPlB6A" featurename="commands" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="commands:Command" xmi:id="_DiWNsLCmEeW3xpJTBPlB6A" elementId="simpleastrewriteproject.command.replacemethodcall.ex" commandName="Replace Method Call"/>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_GH4FgLCmEeW3xpJTBPlB6A" featurename="handlers" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="commands:Handler" xmi:id="_JVxk4LCmEeW3xpJTBPlB6A" elementId="simpleastrewriteproject.handler.0.ex" contributionURI="bundleclass://simpleASTRewrite1ReplaceMethodCall/handler.ReplaceMethodCallHandler" command="_DiWNsLCmEeW3xpJTBPlB6A"/>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_vE9uELCmEeW3xpJTBPlB6A" featurename="descriptors" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="basic:PartDescriptor" xmi:id="_zQy1ULCmEeW3xpJTBPlB6A" elementId="simpleastrewriteproject.partdescriptor.astrewritingview.ex" label="Simple AST Rewriting View - Class Exercise" iconURI="platform:/plugin/simpleASTRewrite1ReplaceMethodCall/icons/sample.png" contributionURI="bundleclass://simpleASTRewrite1ReplaceMethodCall/view.ASTRewriteViewer"/>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_hZ5PwLCnEeW3xpJTBPlB6A" featurename="menuContributions" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="menu:MenuContribution" xmi:id="_l7WowLCnEeW3xpJTBPlB6A" elementId="simpleastrewriteproject.menucontribution.0.ex" positionInParent="after=window" parentId="org.eclipse.ui.main.menu">
+      <children xsi:type="menu:Menu" xmi:id="_njUsILCnEeW3xpJTBPlB6A" elementId="id.mymenu.ex" label="My Menu">
+        <children xsi:type="menu:HandledMenuItem" xmi:id="_pXTLMLCnEeW3xpJTBPlB6A" elementId="simpleastrewriteproject.handledmenuitem.item1.ex" label="Replace Method Invocation" command="_DiWNsLCmEeW3xpJTBPlB6A"/>
+      </children>
+    </elements>
+  </fragments>
+</fragment:ModelFragments>
